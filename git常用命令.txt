@@ -22,6 +22,9 @@ git commit -m ("可加双引号注释")
 暂存当前修改内容，必须把修改的文件git add后才可以git stash，否则本地不会保存
 git stash
 
+删除关联
+git remote rm origin
+
 
 ———————————常见问————————————
 
